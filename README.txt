@@ -1,0 +1,1 @@
+This is the begining of my Java learning, used to learn its syntax.
